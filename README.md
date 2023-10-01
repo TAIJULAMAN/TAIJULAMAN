@@ -2,8 +2,6 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Md. Shah Aman Patwary
 
-# $$\textcolor{yellow}{\text{I am a Front End React Developer}}$$
-
 ## Web Developer
 
 I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
@@ -125,6 +123,3 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&langs_count=5&theme=tokyonight)]()
-
-
-![Profile views](https://gpvc.arturio.dev/TAIJULAMAN)
