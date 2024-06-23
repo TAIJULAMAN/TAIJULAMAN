@@ -6,7 +6,7 @@
 
 I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 <br>
-## To see my portfolio [click here :globe_with_meridians:](https://storied-pithivier-da3733.netlify.app/) 
+## To see my portfolio [click here :globe_with_meridians:](https://taijul-aman-portfolio.vercel.app/) 
 
 #### Skills
 
