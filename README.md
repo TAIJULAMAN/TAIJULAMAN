@@ -54,20 +54,10 @@ I am a passionate Fullstack Developer with a strong foundation in frontend and b
 </p>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TAIJULAMAN&count_private=true&theme=tokyonight&showicons=true)]()
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&langs_count=5&theme=tokyonight)]()
-
-
 ## 🎮 When I'm AFK:
 
 ![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 </div>
 
