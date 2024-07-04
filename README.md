@@ -1,12 +1,32 @@
-<p align='center'><img src='https://i.ibb.co/vcg5Qwc/aman.gif' width='100%' /> </p>
+<p align='center'>
+  [![Hello World, I'm Aman!](assets/header.gif)](https://github.com/TAIJULAMAN)
+</p>
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Md. Shah Aman Patwary
-
-## Web Developer
-
-I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+I am a passionate Fullstack Developer with a strong foundation in frontend and backend technologies. A versatile developer specializing in **MERN** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 <br>
-## To see my portfolio [click here :globe_with_meridians:](https://taijul-aman-portfolio.vercel.app/) 
+
+## 🚀 About Me
+
+- 🎓 I completed my Bachelor's in Computer Science.
+- ✍️ I write articles on [Hashnode](https://hashnode.com/@ShahAman).
+- 💻 Passionate about web development and open-source contributions.
+- 📚 Avid learner, always exploring new technologies and frameworks.
+- 🎤 Speaker at tech conferences and webinars, sharing knowledge and experiences.
+- 🌍 Enthusiast for community building and mentoring aspiring developers.
+- 🚀 Continuously working on personal and collaborative projects to solve real-world problems.
+
+
+## 🌱 Currently Exploring
+
+- Learning Redux,Next.
+- Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+- Navigating through the world of React Router for seamless page transitions.
+- Styling with Tailwind CSS to create modern and responsive user interfaces.
+- Building server-side applications with Node.
+- Diving into MongoDB for efficient and scalable database management.
+
+## My Portfolio [click here :globe_with_meridians:](https://taijul-aman-portfolio.vercel.app/)
 
 #### Skills
 
@@ -114,8 +134,6 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
 
 **Connect with Me:**
 <br>
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/taijulamanbsl)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23FB730F)](https://www.instagram.com/tttiny_wrestler/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/shahamanpatwary/)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TAIJULAMAN&count_private=true&theme=tokyonight&showicons=true)]()
