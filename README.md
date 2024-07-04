@@ -1,6 +1,12 @@
-<p align='center'>
-  [![Hello World, I'm Aman!](/assets/header.gif)](https://github.com/TAIJULAMAN)
-</p>
+<div align="center">
+
+ [![Hello World, I'm Aman!](/assets/header.gif)](https://github.com/TAIJULAMAN)
+
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahamanpatwary/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mdshahamanpatwary@gmail.com?subject=Hello%20Aman,%20From%20Github)
+
+</div>
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Md. Shah Aman Patwary
 I am a passionate Fullstack Developer with a strong foundation in frontend and backend technologies. A versatile developer specializing in **MERN** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
