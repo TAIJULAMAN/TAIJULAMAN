@@ -43,7 +43,7 @@ I am a passionate Fullstack Developer with a strong foundation in frontend and b
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux](https://skillicons.dev/icons?i=next,nodejs,js,ts,react,redux)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
