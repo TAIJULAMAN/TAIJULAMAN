@@ -1,5 +1,5 @@
 <p align='center'>
-  [![Hello World, I'm Aman!](assets/header.gif)](https://github.com/TAIJULAMAN)
+  [![Hello World, I'm Aman!](/assets/header.gif)](https://github.com/TAIJULAMAN)
 </p>
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Md. Shah Aman Patwary
