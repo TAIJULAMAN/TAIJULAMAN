@@ -1,6 +1,4 @@
 <div align="center">
-
- <!-- [![Hello World, I'm Aman!](/assets/header.gif)](https://github.com/TAIJULAMAN) -->
  [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 
@@ -35,7 +33,41 @@ I am a passionate Fullstack Developer with a strong foundation in frontend and b
 
 ## My Portfolio [click here :globe_with_meridians:](https://taijul-aman-portfolio.vercel.app/)
 
-#### Skills
+
+<div align="center">
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+
+## 🎮 When I'm AFK:
+
+![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+
+</div>
+
+
+
+
+
+<!-- #### Skills
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -137,9 +169,9 @@ I am a passionate Fullstack Developer with a strong foundation in frontend and b
 
 # Md. Shah Aman Patwary
 
-## [Portfolio :globe_with_meridians:](https://storied-pithivier-da3733.netlify.app/)
+## [Portfolio :globe_with_meridians:](https://storied-pithivier-da3733.netlify.app/) -->
 
-**Connect with Me:**
+<!-- **Connect with Me:**
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/shahamanpatwary/)
 
@@ -147,4 +179,4 @@ I am a passionate Fullstack Developer with a strong foundation in frontend and b
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&langs_count=5&theme=tokyonight)]() -->
