@@ -6,8 +6,8 @@
 
 </div>
 
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Md. Shah Aman Patwary
-I am a passionate Fullstack Developer with a strong foundation in frontend and backend technologies. A versatile developer specializing in **MERN** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+# About Me
+My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Bangladesh. I am passionate about crafting exceptional user experiences, with over one years of hands-on industry experience. Currently, I thrive in my role at Dark Technologies, where I help create intuitive, engaging interfaces that drive user satisfaction. This role not only honed my technical skills but also broadened my understanding of global standards in web development and the dynamics of remote collaboration.
 <br>
 
 ## 🚀 About Me
