@@ -37,15 +37,15 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 
 <div>
-## 💻 My Tech Stack:
-
-[![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux](https://skillicons.dev/icons?i=next,nodejs,js,ts,react,redux)](https://skillicons.dev)
 
 
 ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+## 💻 My Tech Stack:
+
+[![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux](https://skillicons.dev/icons?i=next,nodejs,js,ts,react,redux)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
