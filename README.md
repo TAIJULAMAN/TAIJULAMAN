@@ -50,10 +50,6 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 ## 🏆 My Stats:
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&theme=dark" />&nbsp;&nbsp;
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left">
   <a href="https://github.com/asfak00" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfak00&langs_count=10&title_color=a855f7&text_color=000&icon_color=000&bg_color=fffff&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
@@ -65,10 +61,10 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
   
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asfak00&" alt="asfak00" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN" alt="TAIJULAMAN" /></p>
 
 </br>
-</p>
+
 
 
 ## 🎮 When I'm AFK:
