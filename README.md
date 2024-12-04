@@ -16,8 +16,6 @@
 My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Bangladesh. I am passionate about crafting exceptional user experiences, with over one years of hands-on industry experience. Currently, I thrive in my role at Dark Technologies, where I help create intuitive, engaging interfaces that drive user satisfaction. This role not only honed my technical skills but also broadened my understanding of global standards in web development and the dynamics of remote collaboration.
 <br>
 
-## 🚀 About Me
-
 - 🎓 I completed my Bachelor's in Computer Science.
 - ✍️ I write articles on [Hashnode](https://hashnode.com/@ShahAman).
 - 💻 Passionate about web development and open-source contributions.
@@ -29,12 +27,11 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 ## 🌱 Currently Exploring
 
-- Learning Redux,Next.
-- Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-- Navigating through the world of React Router for seamless page transitions.
-- Styling with Tailwind CSS to create modern and responsive user interfaces.
-- Building server-side applications with Node.
-- Diving into MongoDB for efficient and scalable database management.
+- Learning Python.
+- Exploring the ins and outs of React Native for app experiences.
+- Making own component library for fast work.
+- Making documents for publishing own e-book. 
+
 
 ## My Portfolio [click here :globe_with_meridians:](https://shahaman.craftysoft.com/)
 
@@ -47,7 +44,7 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux](https://skillicons.dev/icons?i=next,nodejs,js,ts,react,redux)](https://skillicons.dev)
+[![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux, tailwindcss](https://skillicons.dev/icons?i=next,nodejs,js,ts,react,redux)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
