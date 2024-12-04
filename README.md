@@ -43,7 +43,7 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 💻 My Tech Stack:
+## 💻 Tech Stack and Tools:
 
 [![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux](https://skillicons.dev/icons?i=next,nodejs,js,ts,react,redux,bootstrap,html,css,express,figma,firebase,git,github,tailwind,								)](https://skillicons.dev)
 
@@ -51,7 +51,7 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN &show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
