@@ -1,7 +1,7 @@
-<h1 align="center">Hi My Best Wishes👋, I'm Asfak Ahmed</h1>
+<h1 align="center">Hi My Best Wishes👋, I'm Md Shah Aman Patwary</h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;VueJS+Developer;Expert+Responsive+Designer;Progmming+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;Expert+Responsive+Designer;Progmming+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 <div align="center">
