@@ -38,26 +38,21 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 <div>
 
-
-## 💡 A Quote:
-
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## 💻 Tech Stack and Tools:
 
-[![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux](https://skillicons.dev/icons?i=next,nodejs,js,ts,react,redux,bootstrap,html,css,express,figma,firebase,git,github,tailwind,								)](https://skillicons.dev)
+[![Next.js, Node.js, JavaScript, TypeScript, React.js, Redux](https://skillicons.dev/icons?i=next,nodejs,js,ts,react,redux,bootstrap,html,css,express,figma,firebase,git,github,tailwind)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
 
 
 <p align="left">
-  <a href="https://github.com/asfak00" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfak00&langs_count=10&title_color=a855f7&text_color=000&icon_color=000&bg_color=fffff&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/TAIJULAMAN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&langs_count=10&title_color=a855f7&text_color=000&icon_color=000&bg_color=fffff&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 <br/>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asfak00&show_icons=true&locale=en" alt="asfak00" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&locale=en" alt="TAIJULAMAN" /></p>
   
 <br/>
 
@@ -65,15 +60,12 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 </br>
 
+## 💡 A Quote:
 
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🎮 When I'm AFK:
 
-![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 
 </div>
-
-
-
-
