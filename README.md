@@ -27,8 +27,8 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 ## 🌱 Currently Exploring
 
-- Learning Python.
-- Exploring the ins and outs of React Native for app experiences.
+- Learning C,C++.
+- Exploring the ins and outs of React Fundamentals for app experiences.
 - Making own component library for fast work.
 - Making documents for publishing own e-book. 
 
