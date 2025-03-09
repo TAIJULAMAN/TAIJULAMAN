@@ -58,6 +58,8 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN" alt="TAIJULAMAN" /></p>
 </br>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=TAIJULAMAN&theme=light" alt="TAIJULAMAN" /></p>
+</br>
 
 ## 💡 A Quote:
 
