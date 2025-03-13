@@ -55,6 +55,8 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&locale=en" alt="TAIJULAMAN" /></p>
   
 <br/>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN" alt="TAIJULAMAN" /></p>
 </br>
