@@ -48,7 +48,7 @@ My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Banglades
 
 <p align="left">
  <a href="https://github.com/TAIJULAMAN" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&langs_count=100&title_color=a855f7&text_color=000&icon_color=000&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&langs_count=100&exclude_repo=repo1,repo2&hide=html,css,javascript&title_color=a855f7&text_color=000&icon_color=000&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 </p>
