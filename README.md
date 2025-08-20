@@ -13,7 +13,7 @@
 </div>
 
 # About Me
-My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Bangladesh. I am passionate about crafting exceptional user experiences, with over one years of hands-on industry experience. Currently, I thrive in my role at Dark Technologies, where I help create intuitive, engaging interfaces that drive user satisfaction. This role not only honed my technical skills but also broadened my understanding of global standards in web development and the dynamics of remote collaboration.
+My name is Md Shah Aman Patwary, a Front-End Web Developer from Dhaka, Bangladesh. I am passionate about crafting exceptional user experiences, with over one years of hands-on industry experience. Currently, I thrive in my role at SparkTech Agency, where I help create intuitive, engaging interfaces that drive user satisfaction. This role not only honed my technical skills but also broadened my understanding of global standards in web development and the dynamics of remote collaboration.
 <br>
 
 - 🎓 I completed my Bachelor's in Computer Science.
