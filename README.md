@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://shah-aman.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://hashnode.com/@ShahAman" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-  <a href="https://linkedin.com/in/TAIJULAMAN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/shahamanpatwary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 </div>
@@ -32,22 +32,20 @@ const shahAman = {
     location: "Dhaka, Bangladesh 🇧🇩",
     role: "Front-End Web Developer",
     company: "SparkTech Agency",
-    education: "B.Sc. in Computer Science 🎓",
-    experience: "1+ years",
+    education: "B.Sc. in Computer Science",
+    experience: "also more than 2 years",
     
     currentFocus: [
         "Building scalable web applications",
         "Creating reusable component libraries",
-        "Writing technical articles",
         "Mentoring aspiring developers"
     ],
     
     askMeAbout: [
-        "Web Development", "React.js", "Next.js",
-        "UI/UX Design", "Frontend Architecture"
+        "Web Development", "React.js", "Next.js", "Frontend Architecture"
     ],
     
-    funFact: "I debug with console.log() 🐛"
+    funFact: "I debug with console.log()"
 };
 ```
 
@@ -56,9 +54,8 @@ const shahAman = {
 ### � What I Do
 
 - 🔭 Currently working on **building my own component library** for faster development
-- 🌱 Learning **C/C++** and deepening my **React fundamentals**
-- 📝 Regularly writing articles on [**Hashnode**](https://hashnode.com/@ShahAman)
-- � Working on publishing my **first e-book** on web development
+- 🌱 Learning **App Development** and deepening my **Next.js fundamentals**
+- 📚 Working on publishing my **first e-book** on web development
 - 🎤 Speaking at **tech conferences** and sharing knowledge
 - 🤝 Mentoring developers and building tech communities
 - 💡 Contributing to **open-source projects**
@@ -68,33 +65,32 @@ const shahAman = {
 ## 🛠️ Tech Stack & Tools
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>Frontend Development</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Database</b></summary>
+<summary><b>Backend & Database</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4A9E5D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🧰 Tools & Platforms</b></summary>
+<summary><b>Tools & Platforms</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -106,11 +102,12 @@ const shahAman = {
 </details>
 
 <details>
-<summary><b>📚 Currently Learning</b></summary>
+<summary><b>Currently Learning</b></summary>
 <br>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Mobile Development](https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </details>
 
