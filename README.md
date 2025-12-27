@@ -267,12 +267,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshahamanpatwary@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahamanpatwary)
 
-### Open for:
- Collaboration Opportunities
- Full-time Positions
- Speaking Engagements
- Technical Writing
-
 </div>
 
 ---
