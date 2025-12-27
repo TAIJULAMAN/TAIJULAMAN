@@ -52,13 +52,6 @@ education: B.Sc. in Computer Science
 experience: 2+ years
 ```
 
-**What Drives Me:**
-- Crafting pixel-perfect user interfaces
-- Building cross-platform mobile apps
-- Designing intuitive user experiences
-- Sharing knowledge through writing
-- Mentoring aspiring developers
-
 </td>
 <td width="50%" valign="top">
 
@@ -98,8 +91,7 @@ const skills = {
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,expo" alt="Mobile Skills" />
-  <img height="50" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://skillicons.dev/icons?i=react,expo,reactnative" alt="Mobile Skills" />
 </p>
 
 ### ⚙️ Backend & Database
