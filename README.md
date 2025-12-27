@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -51,18 +51,18 @@ const shahAman = {
 
 <br clear="right"/>
 
-### � What I Do
+### What I Do
 
-- 🔭 Currently working on **building my own component library** for faster development
-- 🌱 Learning **App Development** and deepening my **Next.js fundamentals**
-- 📚 Working on publishing my **first e-book** on web development
-- 🎤 Speaking at **tech conferences** and sharing knowledge
-- 🤝 Mentoring developers and building tech communities
-- 💡 Contributing to **open-source projects**
+- Currently working on **building my own component library** for faster development
+- Learning **App Development** and deepening my **Next.js fundamentals**
+- Working on publishing my **first e-book** on web development
+- Speaking at **tech conferences** and sharing knowledge
+- Mentoring developers and building tech communities
+- Contributing to **open-source projects**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <details open>
 <summary><b>Frontend Development</b></summary>
@@ -113,7 +113,7 @@ const shahAman = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
@@ -137,7 +137,7 @@ const shahAman = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -149,7 +149,7 @@ const shahAman = {
 
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section will auto-update with your latest Hashnode articles -->
@@ -160,13 +160,13 @@ const shahAman = {
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 SparkTech Agency
+### SparkTech Agency
 **Front-End Web Developer**  
 📅 *Current Position*
 
@@ -178,7 +178,7 @@ const shahAman = {
 </td>
 <td width="50%">
 
-### 🎯 Key Achievements
+### Key Achievements
 - ✅ 1+ years of industry experience
 - ✅ Multiple successful project deliveries
 - ✅ Active tech community contributor
@@ -191,7 +191,7 @@ const shahAman = {
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 🎓 **Bachelor of Science in Computer Science**  
 🏛️ *University Name*
@@ -203,7 +203,7 @@ const shahAman = {
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
 <div align="center">
 
@@ -218,7 +218,7 @@ const shahAman = {
 
 ---
 
-## 🌟 Fun Facts
+## Fun Facts
 
 <div align="center">
 
@@ -234,7 +234,7 @@ const shahAman = {
 
 ---
 
-## 💡 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -244,7 +244,7 @@ const shahAman = {
 
 ---
 
-## 🎮 When I'm Not Coding
+## When I'm Not Coding
 
 <div align="center">
 
@@ -257,32 +257,27 @@ const shahAman = {
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
 I'm always open to interesting conversations and collaboration opportunities!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shah-aman.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TAIJULAMAN)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TAIJULAMAN)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Read%20Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ShahAman)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshahamanpatwary@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahamanpatwary)
 
-### 💌 Open for:
-- 🚀 Freelance Projects
-- 🤝 Collaboration Opportunities
-- 💼 Full-time Positions
-- 🎤 Speaking Engagements
-- 📝 Technical Writing
+### Open for:
+ Collaboration Opportunities
+ Full-time Positions
+ Speaking Engagements
+ Technical Writing
 
 </div>
 
 ---
 
 <div align="center">
-
-### ⭐ Show some love by starring my repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
