@@ -41,11 +41,11 @@
 <tr>
 <td width="50%" valign="top">
 
-### Professional Journey
+### Profile Journal
 
 ```yaml
 name: Md Shah Aman Patwary
-role: Front-End Web Developer
+role: Web & App Developer
 company: SparkTech Agency
 location: Dhaka, Bangladesh 🇧�
 education: B.Sc. in Computer Science
@@ -80,7 +80,7 @@ const skills = {
 <!-- Tech Stack Section -->
 <div align="center">
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap,expo,nodejs,express,mongodb,firebase,git,github,vscode,figma,postman,npm" alt="Tech Stack" />
@@ -93,7 +93,7 @@ const skills = {
 <!-- GitHub Stats Section -->
 <div align="center">
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&ring_color=6366f1" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=c9d1d9" alt="GitHub Streak" />
