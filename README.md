@@ -25,8 +25,6 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ```javascript
 const shahAman = {
     location: "Dhaka, Bangladesh 🇧🇩",
@@ -127,69 +125,6 @@ const shahAman = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TAIJULAMAN&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TAIJULAMAN&repo=TAIJULAMAN&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9)](https://github.com/TAIJULAMAN/TAIJULAMAN)
-
-</div>
-
-> 💡 **Tip:** Check out my [**Portfolio**](https://shah-aman.vercel.app/) to see more of my work!
-
----
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will auto-update with your latest Hashnode articles -->
-- Coming soon! Setting up auto-fetch from Hashnode...
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [**Read more articles on Hashnode**](https://hashnode.com/@ShahAman)
-
----
-
-## Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### SparkTech Agency
-**Front-End Web Developer**  
-📅 *Current Position*
-
-- Building responsive, user-centric web applications
-- Collaborating with global teams remotely
-- Implementing modern UI/UX best practices
-- Mentoring junior developers
-
-</td>
-<td width="50%">
-
-### Key Achievements
-- ✅ 1+ years of industry experience
-- ✅ Multiple successful project deliveries
-- ✅ Active tech community contributor
-- ✅ Published technical articles
-- ✅ Conference speaker
-
-</td>
-</tr>
-</table>
-
----
-
-## Education & Certifications
-
-🎓 **Bachelor of Science in Computer Science**  
-🏛️ *National University of Bangladesh*
-
----
 
 ## Fun Facts
 
