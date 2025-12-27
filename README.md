@@ -82,28 +82,8 @@ const skills = {
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap" alt="Frontend Skills" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,expo,reactnative" alt="Mobile Skills" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" alt="Tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap,expo,nodejs,express,mongodb,firebase,git,github,vscode,figma,postman,npm" alt="Tech Stack" />
 </p>
 
 </div>
