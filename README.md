@@ -121,18 +121,11 @@ const shahAman = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TAIJULAMAN&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=c9d1d9" alt="Contribution Graph" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
-<!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TAIJULAMAN&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TAIJULAMAN/TAIJULAMAN/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -194,27 +187,7 @@ const shahAman = {
 ## Education & Certifications
 
 🎓 **Bachelor of Science in Computer Science**  
-🏛️ *University Name*
-
-📜 **Certifications:**
-- Front-End Web Development
-- React.js Advanced Concepts
-- UI/UX Design Fundamentals
-
----
-
-## Ask Me About
-
-<div align="center">
-
-| Frontend | Backend | Design | Others |
-|:--------:|:-------:|:------:|:------:|
-| React.js | Node.js | Figma | Git/GitHub |
-| Next.js | Express | UI/UX | Agile |
-| TypeScript | Firebase | Responsive Design | Remote Work |
-| Redux | REST APIs | Accessibility | Tech Writing |
-
-</div>
+🏛️ *National University of Bangladesh*
 
 ---
 
