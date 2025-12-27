@@ -33,7 +33,7 @@
 <!-- About Me Section with Cards -->
 <div align="center">
 
-## � About Me
+## About Me
 
 </div>
 
@@ -41,7 +41,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### � Professional Journey
+### Professional Journey
 
 ```yaml
 name: Md Shah Aman Patwary
@@ -52,17 +52,17 @@ education: B.Sc. in Computer Science
 experience: 2+ years
 ```
 
-**🎯 What Drives Me:**
-- � Crafting pixel-perfect user interfaces
-- 📱 Building cross-platform mobile apps
-- 🎨 Designing intuitive user experiences
-- 📚 Sharing knowledge through writing
-- 🤝 Mentoring aspiring developers
+**What Drives Me:**
+- Crafting pixel-perfect user interfaces
+- Building cross-platform mobile apps
+- Designing intuitive user experiences
+- Sharing knowledge through writing
+- Mentoring aspiring developers
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Tech Arsenal
+### Tech Arsenal
 
 ```typescript
 const skills = {
@@ -74,7 +74,7 @@ const skills = {
   tools: ["Git", "VS Code", "Figma"],
   
   currentlyLearning: "Advanced App Development",
-  interests: ["UI/UX", "Performance", "A11y"]
+  interests: ["Performance", "A11y"]
 };
 ```
 
@@ -142,7 +142,7 @@ const skills = {
 <!-- Contribution Graph -->
 <div align="center">
 
-## � Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAIJULAMAN&custom_title=Shah%20Aman's%20Contribution%20Graph&bg_color=0D1117&color=6366f1&line=8b5cf6&point=c9d1d9&area_color=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
 
@@ -164,7 +164,7 @@ const skills = {
 <!-- Interests Section -->
 <div align="center">
 
-## � Beyond Coding
+## Beyond Coding
 
 <table>
 <tr>
@@ -201,7 +201,7 @@ Lo-fi & Coding
 ## 🤝 Let's Connect & Collaborate!
 
 <p>
-  <b>💬 I'm always excited to discuss new projects, creative ideas, or opportunities!</b>
+  <b>I'm always excited to discuss new projects, creative ideas, or opportunities!</b>
 </p>
 
 <p>
@@ -214,20 +214,7 @@ Lo-fi & Coding
   <a href="https://www.linkedin.com/in/shahamanpatwary">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://hashnode.com/@ShahAman">
-    <img src="https://img.shields.io/badge/📝_Blog-Read_Articles-2962FF?style=for-the-badge" alt="Hashnode"/>
-  </a>
 </p>
-
-### 🌟 Open For
-
-```diff
-+ 💼 Freelance Projects
-+ 🤝 Collaboration Opportunities
-+ 🎤 Speaking Engagements
-+ 📚 Technical Writing
-+ 🧑‍🏫 Mentorship Programs
-```
 
 </div>
 
@@ -243,7 +230,7 @@ Lo-fi & Coding
 </p>
 
 <p>
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
 
 </div>
