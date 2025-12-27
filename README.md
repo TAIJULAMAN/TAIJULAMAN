@@ -8,7 +8,7 @@
 <!-- Typing SVG with Multiple Lines -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Beautiful+Web+%26+Mobile+Experiences+%F0%9F%9A%80;2%2B+Years+of+Crafting+Digital+Solutions+%F0%9F%92%BB;Passionate+About+Clean+Code+%26+Innovation+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Web+%26+Mobile+Experiences;Crafting+Digital+Solutions;Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
   </a>
 </p>
 
