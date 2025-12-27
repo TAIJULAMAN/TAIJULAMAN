@@ -1,188 +1,249 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Shah%20Aman%20Patwary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Front-End+Web+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F;Tech+Speaker+%26+Mentor+%F0%9F%8E%A4" alt="Typing SVG" /></a>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TAIJULAMAN&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/TAIJULAMAN?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers" />
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://shah-aman.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://hashnode.com/@ShahAman" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-  <a href="https://www.linkedin.com/in/shahamanpatwary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<!-- Dynamic Header with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Shah%20Aman%20Patwary&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Tech%20Speaker&descAlignY=55&descSize=18" />
 
 </div>
 
----
+<!-- Typing SVG with Multiple Lines -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Beautiful+Web+%26+Mobile+Experiences+%F0%9F%9A%80;2%2B+Years+of+Crafting+Digital+Solutions+%F0%9F%92%BB;Passionate+About+Clean+Code+%26+Innovation+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 
-## About Me
+<!-- Badges Section -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TAIJULAMAN&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TAIJULAMAN?label=Followers&style=flat-square&color=blue" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-App%20Development-orange?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/Lives-Dhaka%2C%20Bangladesh-success?style=flat-square" alt="location" />
+</p>
 
-```javascript
-const shahAman = {
-    location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Front-End Web Developer",
-    company: "SparkTech Agency",
-    education: "B.Sc. in Computer Science",
-    experience: "also more than 2 years",
-    
-    currentFocus: [
-        "Building scalable web applications",
-        "Creating reusable component libraries",
-        "Mentoring aspiring developers"
-    ],
-    
-    askMeAbout: [
-        "Web Development", "React.js", "Next.js", "Frontend Architecture"
-    ],
-    
-    funFact: "I debug with console.log()"
+<!-- Social Media Links -->
+<p align="center">
+  <a href="https://shah-aman.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shahamanpatwary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mdshahamanpatwary@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://hashnode.com/@ShahAman"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+</p>
+
+<br/>
+
+<!-- About Me Section with Cards -->
+<div align="center">
+
+## � About Me
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### � Professional Journey
+
+```yaml
+name: Md Shah Aman Patwary
+role: Front-End Web Developer
+company: SparkTech Agency
+location: Dhaka, Bangladesh 🇧�
+education: B.Sc. in Computer Science
+experience: 2+ years
+```
+
+**🎯 What Drives Me:**
+- � Crafting pixel-perfect user interfaces
+- 📱 Building cross-platform mobile apps
+- 🎨 Designing intuitive user experiences
+- 📚 Sharing knowledge through writing
+- 🤝 Mentoring aspiring developers
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Tech Arsenal
+
+```typescript
+const skills = {
+  languages: ["JavaScript", "TypeScript"],
+  frontend: ["React", "Next.js", "Redux"],
+  mobile: ["React Native", "Expo"],
+  backend: ["Node.js", "Express.js"],
+  databases: ["MongoDB", "Firebase"],
+  tools: ["Git", "VS Code", "Figma"],
+  
+  currentlyLearning: "Advanced App Development",
+  interests: ["UI/UX", "Performance", "A11y"]
 };
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
-### What I Do
+<br/>
 
-- Currently working on **building my own component library** for faster development
-- Learning **App Development** and deepening my **Next.js fundamentals**
-- Working on publishing my **first e-book** on web development
-- Speaking at **tech conferences** and sharing knowledge
-- Mentoring developers and building tech communities
-- Contributing to **open-source projects**
-
----
-
-## Tech Stack & Tools
-
-<details open>
-<summary><b>Frontend Development</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-</details>
-
-<details open>
-<summary><b>Backend & Database</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4A9E5D?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Tools & Platforms</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Currently Learning</b></summary>
-<br>
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Mobile Development](https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</details>
-
----
-
-## GitHub Statistics
-
+<!-- Tech Stack Section -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak" />
+
+## 💻 Tech Stack
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap" alt="Frontend Skills" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expo" alt="Mobile Skills" />
+  <img height="50" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" alt="Tools" />
+</p>
+
 </div>
 
+<br/>
+
+<!-- GitHub Stats Section -->
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+## 📈 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&ring_color=6366f1" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=c9d1d9" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=TAIJULAMAN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TAIJULAMAN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
 </div>
 
+<br/>
+
+<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TAIJULAMAN&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+
+## � Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TAIJULAMAN&custom_title=Shah%20Aman's%20Contribution%20Graph&bg_color=0D1117&color=6366f1&line=8b5cf6&point=c9d1d9&area_color=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
+
 </div>
 
-## Fun Facts
+<br/>
 
+<!-- Quote Section -->
 <div align="center">
+
+## 💭 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+
+</div>
+
+<br/>
+
+<!-- Interests Section -->
+<div align="center">
+
+## � Beyond Coding
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/netflix.png" width="60"/><br/>
+<b>Streaming</b><br/>
+Netflix & Chill
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/book.png" width="60"/><br/>
+<b>Reading</b><br/>
+Tech & Fiction
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/controller.png" width="60"/><br/>
+<b>Gaming</b><br/>
+Strategy Games
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/music.png" width="60"/><br/>
+<b>Music</b><br/>
+Lo-fi & Coding
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate!
+
+<p>
+  <b>💬 I'm always excited to discuss new projects, creative ideas, or opportunities!</b>
+</p>
+
+<p>
+  <a href="https://shah-aman.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-FF5722?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="mailto:mdshahamanpatwary@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shahamanpatwary">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://hashnode.com/@ShahAman">
+    <img src="https://img.shields.io/badge/📝_Blog-Read_Articles-2962FF?style=for-the-badge" alt="Hashnode"/>
+  </a>
+</p>
+
+### 🌟 Open For
 
 ```diff
-+ I believe in clean code and pixel-perfect designs
-+ Coffee-driven developer ☕
-+ Love contributing to open source 🌟
-+ Always learning something new 📚
-! Debugging is my cardio 🏃‍♂️
++ 💼 Freelance Projects
++ 🤝 Collaboration Opportunities
++ 🎤 Speaking Engagements
++ 📚 Technical Writing
++ 🧑‍🏫 Mentorship Programs
 ```
 
 </div>
 
----
+<br/>
 
-## Random Dev Quote
-
+<!-- Footer -->
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" width="100%" />
 
-</div>
+<p>
+  <b>⭐️ From <a href="https://github.com/TAIJULAMAN">TAIJULAMAN</a> with ❤️</b>
+</p>
 
----
-
-## When I'm Not Coding
-
-<div align="center">
-
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Reading](https://img.shields.io/badge/Reading-FF6B6B?style=for-the-badge&logo=goodreads&logoColor=white)
-![Gaming](https://img.shields.io/badge/Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-
-</div>
-
----
-
-## Let's Connect!
-
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shah-aman.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshahamanpatwary@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahamanpatwary)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
-**Made with ❤️ by Md Shah Aman Patwary**
+<p>
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
 
 </div>
