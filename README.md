@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Shah Aman Patwary</h1>
-  <h3>Senior Frontend Developer | UI/UX Enthusiast</h3>
+  <h3>Frontend Developer</h3>
   <p><i>Crafting scalable, high-performance web & mobile experiences.</i></p>
 
   <p>
@@ -15,13 +15,14 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a results-driven **Senior Developer** with over 2 years of experience at **SparkTech Agency**, specializing in building robust web and mobile applications. My expertise lies in architecting scalable font-end solutions, optimizing performance, and leading development lifecycles from concept to deployment. I am passionate about clean code, accessibility, and delivering intuitive user experiences.
+I am a results-driven **Frontend Developer** with over 2 years of experience and now working as a **Frontend Developer** at **SparkTech Agency**, specializing in building robust web and mobile applications. My expertise lies in architecting scalable font-end solutions, optimizing performance, and leading development lifecycles from concept to deployment. I am passionate about clean code, accessibility, and delivering intuitive user experiences.
 
 ---
 
 ## 🛠️ Technology Stack
 
 ### Frontend Architecture
+![JavaScript](https://img.shields.io/badge/JavaScript-329932.svg?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
