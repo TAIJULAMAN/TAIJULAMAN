@@ -53,5 +53,5 @@ I am a results-driven **Frontend Developer** with over 2 years of experience and
 ---
 
 <div align="center">
-  <p>© 2025 Shah Aman Patwary. Dhaka, Bangladesh 🇧🇩</p>
+  <p>© 2026 Shah Aman Patwary. Dhaka, Bangladesh 🇧🇩</p>
 </div>
