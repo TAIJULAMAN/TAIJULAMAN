@@ -45,7 +45,7 @@ I am a results-driven **Frontend Developer** with over 2 years of experience and
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&hide_border=true&theme=default&hide_title=true" height="150" alt="languages graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&hide_border=true&theme=default&hide_title=true" height="150" alt="languages graph" /> -->
 </div>
 
 <br />
