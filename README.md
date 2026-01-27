@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Shah Aman Patwary</h1>
-  <h3>Frontend Developer</h3>
+  <h3>Web and App Developer</h3>
   <p><i>Crafting scalable, high-performance web & mobile experiences.</i></p>
 
   <p>
@@ -13,13 +13,13 @@
 
 <br />
 
-## 👨‍💻 Professional Summary
+## Professional Summary
 
 I am a results-driven **Frontend Developer** with over 2 years of experience and now working as a **Frontend Developer** at **SparkTech Agency**, specializing in building robust web and mobile applications. My expertise lies in architecting scalable font-end solutions, optimizing performance, and leading development lifecycles from concept to deployment. I am passionate about clean code, accessibility, and delivering intuitive user experiences.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend Architecture
 ![JavaScript](https://img.shields.io/badge/JavaScript-329932.svg?style=flat&logo=javascript&logoColor=white)
