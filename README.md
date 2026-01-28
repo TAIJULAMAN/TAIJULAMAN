@@ -61,21 +61,7 @@ I am a results-driven **Frontend Developer** with over 2 years of experience and
 
 <div align="center">
 
-### 📈 GitHub Stats Overview
-
 <img src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=TAIJULAMAN's%20GitHub%20Stats" alt="GitHub Stats" />
-
-
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-
-
-### 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TAIJULAMAN&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
