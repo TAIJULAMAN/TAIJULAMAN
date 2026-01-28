@@ -17,8 +17,6 @@
 
 I am a results-driven **Frontend Developer** with over 2 years of experience and now working as a **Frontend Developer** at **SparkTech Agency**, specializing in building robust web and mobile applications. My expertise lies in architecting scalable font-end solutions, optimizing performance, and leading development lifecycles from concept to deployment. I am passionate about clean code, accessibility, and delivering intuitive user experiences.
 
----
-
 ## Technology Stack
 
 ### Frontend Architecture
@@ -39,9 +37,7 @@ I am a results-driven **Frontend Developer** with over 2 years of experience and
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 
----
-
-## � Published Packages & Extensions
+##  Published Packages & Extensions
 
 ### NPM Packages
 
@@ -55,8 +51,6 @@ I am a results-driven **Frontend Developer** with over 2 years of experience and
 
 - 💎 [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - AI-powered code roaster—get brutally honest feedback about your code quality with humor
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -66,8 +60,6 @@ I am a results-driven **Frontend Developer** with over 2 years of experience and
 </div>
 
 <br />
-
----
 
 <div align="center">
   <p>© 2026 Shah Aman Patwary. Dhaka, Bangladesh 🇧🇩</p>
