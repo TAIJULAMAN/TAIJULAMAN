@@ -41,11 +41,46 @@ I am a results-driven **Frontend Developer** with over 2 years of experience and
 
 ---
 
-## 📊 Analytics
+## � Published Packages & Extensions
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&hide_border=true&theme=default&hide_title=true" height="150" alt="languages graph" /> -->
+### NPM Packages
+
+- 📸 [**react-source-spotlight**](https://www.npmjs.com/package/react-source-spotlight) - One-click source code viewer for React portfolios—hover over any component to see its code
+- 🛡️ [**react-freelance-shield**](https://www.npmjs.com/package/react-freelance-shield) - Secure watermark system for freelance projects with customizable branding
+- 🔄 [**react-tab-refresh**](https://www.npmjs.com/package/react-tab-refresh) - Intelligent state pruning for inactive tabs—solve tab bloat with time-based cleanup
+- ⚡ [**react-input-buffer**](https://www.npmjs.com/package/react-input-buffer) - High-performance input buffering for gaming peripherals—prevent main thread DDoS
+- ♿ [**accessibility-auto-fixer**](https://www.npmjs.com/package/accessibility-auto-fixer) - AST-based accessibility scanner and auto-fixer for React/JSX with smart defaults
+
+### VS Code Extensions
+
+- 💎 [**VS Thanos Snap**](https://marketplace.visualstudio.com/items?itemName=ShahAman.vs-thanos-snap) - Perfectly balanced code deletion—snap away half your lines with a dust animation effect
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 GitHub Stats Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=TAIJULAMAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=TAIJULAMAN's%20GitHub%20Stats" alt="GitHub Stats" />
+
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TAIJULAMAN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAIJULAMAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=TAIJULAMAN&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+### 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TAIJULAMAN&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
 </div>
 
 <br />
