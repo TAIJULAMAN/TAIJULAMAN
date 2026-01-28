@@ -49,7 +49,7 @@ I am a results-driven **Frontend Developer** with over 2 years of experience and
 
 ### VS Code Extensions
 
-- 💎 [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - AI-powered code roaster—get brutally honest feedback about your code quality with humor
+- 💎 [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - A code roaster—get brutally honest feedback about your code quality with humor
 
 ## 📊 GitHub Analytics
 
