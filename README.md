@@ -1,21 +1,37 @@
 <div align="center">
-  <h1>Shah Aman Patwary</h1>
-  <h3>Web and App Developer</h3>
-  <p><i>Crafting scalable, high-performance web & mobile experiences.</i></p>
-
-  <p>
-    <a href="https://shah-aman.vercel.app/">Portfolio</a> •
-    <a href="https://www.linkedin.com/in/shahamanpatwary">LinkedIn</a> •
-    <a href="mailto:mdshahamanpatwary@gmail.com">Email</a> •
-    <a href="https://hashnode.com/@ShahAman">Blog</a>
-  </p>
+  <img src="assets/header.gif" alt="Shah Aman Patwary - Web and App Developer" width="100%" /> 
 </div>
 
 <br />
 
-## Professional Summary
+<div align="center"> 
+  <a href="https://shah-aman.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/shahamanpatwary">LinkedIn</a> •
+  <a href="mailto:mdshahamanpatwary@gmail.com">Email</a> •
+  <a href="https://hashnode.com/@ShahAman">Blog</a>
+</div>
+<br />
 
-I am a results-driven **Frontend Developer** with over 2 years of experience and now working as a **Frontend Developer** at **SparkTech Agency**, specializing in building robust web and mobile applications. My expertise lies in architecting scalable font-end solutions, optimizing performance, and leading development lifecycles from concept to deployment. I am passionate about clean code, accessibility, and delivering intuitive user experiences.
+## 🚀 Professional Summary
+
+**Senior Software Engineer** specializing in **Frontend Architecture** & **Mobile Development**.  
+Currently building high-performance applications at **SparkTech Agency**.
+
+With over 2 years of production experience, I don't just write code—I engineer scalable solutions. My focus is on:
+*   **Performance Optimization:** Reducing TTI and LCP for seamless user experiences.
+*   **Scalable Architecture:** Designing maintainable, modular codebases.
+*   **User-Centric Design:** Bridging the gap between complex logic and intuitive UI.
+
+---
+
+## 🏆 Featured Projects
+
+| **Travel Booking Platform** | **Messaging & Video Call App** |
+| :---: | :---: |
+| <!-- <img src="travel-app-placeholder.png" width="300" /> --> *Placeholder for Screenshot* | <!-- <img src="chat-app-placeholder.png" width="300" /> --> *Placeholder for Screenshot* |
+| Comprehensive booking flow with calendar integration and payment gateway. | Real-time chat & video calling with WebSocket and WebRTC integration. |
+| **Next.js • Tailwind • Stripe** | **React Native • Socket.io • WebRTC** |
+| [🔴 Live Demo](#) • [💻 Code](#) | [🔴 Live Demo](#) • [💻 Code](#) |
 
 ## Technology Stack
 
