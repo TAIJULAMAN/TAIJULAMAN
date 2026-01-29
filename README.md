@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.gif" alt="Shah Aman Patwary - Web and App Developer" width="100%" /> 
+  <img src="assets/aman.png" alt="Md Shah Aman Patwary - Software Engineer" width="100%" /> 
 </div>
 
 <br />
@@ -7,14 +7,13 @@
 <div align="center"> 
   <a href="https://shah-aman.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/shahamanpatwary">LinkedIn</a> •
-  <a href="mailto:mdshahamanpatwary@gmail.com">Email</a> •
-  <a href="https://hashnode.com/@ShahAman">Blog</a>
+  <a href="mailto:mdshahamanpatwary@gmail.com">Email</a> 
 </div>
 <br />
 
-## 🚀 Professional Summary
+## Professional Summary
 
-**Senior Software Engineer** specializing in **Frontend Architecture** & **Mobile Development**.  
+**Software Engineer** specializing in **Frontend Architecture** & **Mobile Development**.  
 Currently building high-performance applications at **SparkTech Agency**.
 
 With over 2 years of production experience, I don't just write code—I engineer scalable solutions. My focus is on:
@@ -24,14 +23,10 @@ With over 2 years of production experience, I don't just write code—I engineer
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-| **Travel Booking Platform** | **Messaging & Video Call App** |
-| :---: | :---: |
-| <!-- <img src="travel-app-placeholder.png" width="300" /> --> *Placeholder for Screenshot* | <!-- <img src="chat-app-placeholder.png" width="300" /> --> *Placeholder for Screenshot* |
-| Comprehensive booking flow with calendar integration and payment gateway. | Real-time chat & video calling with WebSocket and WebRTC integration. |
-| **Next.js • Tailwind • Stripe** | **React Native • Socket.io • WebRTC** |
-| [🔴 Live Demo](#) • [💻 Code](#) | [🔴 Live Demo](#) • [💻 Code](#) |
+- ✈️ [**Travel Booking Platform**](#) - Comprehensive booking flow with calendar integration and payment gateway using **Next.js**, **Tailwind**, and **Stripe**.
+- 💬 [**Messaging & Video Call App**](#) - Real-time chat & video calling with WebSocket and WebRTC integration using **React Native**, **Socket.io** and **WebRTC**.
 
 ## Technology Stack
 
