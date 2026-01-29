@@ -21,13 +21,6 @@ With over 2 years of production experience, I don't just write code—I engineer
 *   **Scalable Architecture:** Designing maintainable, modular codebases.
 *   **User-Centric Design:** Bridging the gap between complex logic and intuitive UI.
 
----
-
-## Featured Projects
-
-- ✈️ [**Travel Booking Platform**](#) - Comprehensive booking flow with calendar integration and payment gateway using **Next.js**, **Tailwind**, and **Stripe**.
-- 💬 [**Messaging & Video Call App**](#) - Real-time chat & video calling with WebSocket and WebRTC integration using **React Native**, **Socket.io** and **WebRTC**.
-
 ## Technology Stack
 
 ### Frontend Architecture
@@ -48,7 +41,12 @@ With over 2 years of production experience, I don't just write code—I engineer
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 
-##  Published Packages & Extensions
+## Published Projects, Packages & Extensions
+
+### Featured Projects
+
+- ✈️ [**Travel Booking Platform**](#) - Comprehensive booking flow with calendar integration and payment gateway using **Next.js**, **Tailwind**, and **Stripe**.
+- 💬 [**Messaging & Video Call App**](#) - Real-time chat & video calling with WebSocket and WebRTC integration using **React Native**, **Socket.io** and **WebRTC**.
 
 ### NPM Packages
 
@@ -62,7 +60,7 @@ With over 2 years of production experience, I don't just write code—I engineer
 
 - 💎 [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - A code roaster—get brutally honest feedback about your code quality with humor
 
-## 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
