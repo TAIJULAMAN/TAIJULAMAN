@@ -16,7 +16,7 @@
 **Software Engineer** specializing in **Frontend Architecture** & **Mobile Development**.  
 Currently building high-performance applications at **SparkTech Agency**.
 
-With over 2 years of production experience, I don't just write code—I engineer scalable solutions. My focus is on:
+With almost 2 years of production experience, I don't just write code—I engineer scalable solutions. My focus is on:
 *   **Performance Optimization:** Reducing TTI and LCP for seamless user experiences.
 *   **Scalable Architecture:** Designing maintainable, modular codebases.
 *   **User-Centric Design:** Bridging the gap between complex logic and intuitive UI.
@@ -58,7 +58,8 @@ With over 2 years of production experience, I don't just write code—I engineer
 
 ### VS Code Extensions
 
-- 💎 [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - A code roaster—get brutally honest feedback about your code quality with humor
+- 💎 [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - A code roaster—get brutally honest feedback about your code quality with humor.
+- 💎 [**Focus fog**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.focus-fog) - It automatically detects the active code block you are working on and visually "dims" everything else.
 
 ### GitHub Analytics
 
