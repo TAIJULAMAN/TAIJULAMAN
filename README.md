@@ -43,10 +43,11 @@ With almost 2 years of production experience, I don't just write code—I engine
 
 ## Published Projects, Packages & Extensions
 
-### Featured Projects
+### Featured Web Projects
+<div>Soon.......</div>
 
-- ✈️ [**Travel Booking Platform**](#) - Comprehensive booking flow with calendar integration and payment gateway using **Next.js**, **Tailwind**, and **Stripe**.
-- 💬 [**Messaging & Video Call App**](#) - Real-time chat & video calling with WebSocket and WebRTC integration using **React Native**, **Socket.io** and **WebRTC**.
+### Featured Web Projects
+<div>Soon.......</div>
 
 ### NPM Packages
 
