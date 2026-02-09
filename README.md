@@ -61,6 +61,11 @@ With almost 2 years of production experience, I don't just write code—I engine
 
 -  [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - A code roaster—get brutally honest feedback about your code quality with humor.
 -  [**Focus fog**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.focus-fog) - It automatically detects the active code block you are working on and visually "dims" everything else.
+-  [**Ghost Design**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.ghost-design) - Overlay design images directly into your VS Code editor for pixel-perfect implementation.
+-  [**Mood Ring**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.mood-ring) - An extension that detects your mood based on typing checks and adjusts the theme.
+-  [**Thanos Snap**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-thanos-snap) - Randomly delete 50% of expendable code with a cinematic Thanos snap effect.
+
+
 
 ### GitHub Analytics
 
