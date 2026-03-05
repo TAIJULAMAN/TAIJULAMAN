@@ -47,17 +47,21 @@ With almost 2 years of production experience, I don't just write code—I engine
 
 ## Published Projects, Packages & Extensions
 
-### Featured Web Projects
+### Web Projects
 
 - [**Scholarstika**](https://scholarstika-saas-development.vercel.app/) - A SaaS platform for educational institutions to manage their own single or multiple branches, parent, students, teachers, nurses,finance administrator and academic activities.
-- [**hostinflu**](https://hostinflu-web.vercel.app/) - a cutting-edge platform that bridges the gap between property hosts and social media influencers. We facilitate meaningful collaborations where hosts offer money/stay in exchange for authentic social media exposure, creating win-win partnerships that benefit both parties.
+- [**Hostinflu**](https://hostinflu-web.vercel.app/) - a cutting-edge platform that bridges the gap between property hosts and social media influencers. We facilitate meaningful collaborations where hosts offer money/stay in exchange for authentic social media exposure, creating win-win partnerships that benefit both parties.
 - [**IrelandGo**](https://ireland-go-web.vercel.app/) - A modern, full-featured travel booking platform for Ireland provides separate dashboards for travel agents and users to manage bookings, clients, payments, and more.
 - [**Craftysoft-Ui**](https://craft-soft-ui.vercel.app/) - An all-in-one frontend development toolkit, purpose-built to help you ship faster, design smarter, and code better.
-- [**plate-exchang**](https://plate-exchange-website.vercel.app/) -An application for buying and selling UK number plates. This platform connects buyers and sellers in a secure marketplace environment with premium features and user dashboard functionality.
+- [**Plate-exchang**](https://plate-exchange-website.vercel.app/) -An application for buying and selling UK number plates. This platform connects buyers and sellers in a secure marketplace environment with premium features and user dashboard functionality.
 
-### Featured App Projects
+### App Projects
 
-<div>Soon.......</div>
+- [**Geno-Guevara**](https://github.com/TAIJULAMAN/genoguevara-rn-app) - A premium, high-fidelity React Native application designed to guide users through their recovery journey using the "Big Book Thumper" and "Dr. Bob Mode" spiritual practices. The app provides structured morning, midday, and evening routines, journaling tools, and meditation aids.
+- [**Ideate-Doctor**](https://github.com/TAIJULAMAN/rn-ideate-doctor-consult) - A comprehensive React Native mobile application for doctor consultations, built with Expo and TypeScript. This app provides a complete healthcare platform with appointment booking, instant consultations, messaging and more.
+- [**Travenor**](https://github.com/TAIJULAMAN/rn-travenor-travelling-app) - Travenor allows users to explore destinations, book trips, and manage their travel experiences with an intuitive and visually stunning interface.
+- [**Gogo-User**](https://github.com/TAIJULAMAN/gogo-user-rn-app) -A React Native application for on-demand delivery and logistics. Built with Expo, GOGO offers a seamless user experience for booking, tracking, and managing deliveries with a modern, premium design.
+- [**Gogo-Driver**](https://github.com/TAIJULAMAN/gogo-driver-rn-app) -A React Native application for on-demand delivery and logistics. Built with Expo, GOGO offers a seamless user experience for booking, tracking, and managing deliveries with a modern, premium design.
 
 ### NPM Packages
 
