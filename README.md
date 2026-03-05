@@ -51,9 +51,9 @@ With almost 2 years of production experience, I don't just write code—I engine
 
 - [**Scholarstika**](https://scholarstika-saas-development.vercel.app/) - A SaaS platform for educational institutions to manage their own single or multiple branches, parent, students, teachers, nurses,finance administrator and academic activities.
 - [**hostinflu**](https://hostinflu-web.vercel.app/) - a cutting-edge platform that bridges the gap between property hosts and social media influencers. We facilitate meaningful collaborations where hosts offer money/stay in exchange for authentic social media exposure, creating win-win partnerships that benefit both parties.
-- [**react-tab-refresh**](https://www.npmjs.com/package/react-tab-refresh) - Intelligent state pruning for inactive tabs—solve tab bloat with time-based cleanup
-- [**react-input-buffer**](https://www.npmjs.com/package/react-input-buffer) - High-performance input buffering for gaming peripherals—prevent main thread DDoS
-- [**accessibility-auto-fixer**](https://www.npmjs.com/package/accessibility-auto-fixer) - AST-based accessibility scanner and auto-fixer for React/JSX with smart defaults
+- [**IrelandGo**](https://ireland-go-web.vercel.app/) - A modern, full-featured travel booking platform for Ireland provides separate dashboards for travel agents and users to manage bookings, clients, payments, and more.
+- [**Craftysoft-Ui**](https://craft-soft-ui.vercel.app/) - An all-in-one frontend development toolkit, purpose-built to help you ship faster, design smarter, and code better.
+- [**plate-exchang**](https://plate-exchange-website.vercel.app/) -An application for buying and selling UK number plates. This platform connects buyers and sellers in a secure marketplace environment with premium features and user dashboard functionality.
 
 ### Featured App Projects
 
