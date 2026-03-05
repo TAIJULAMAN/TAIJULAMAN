@@ -17,13 +17,15 @@
 Currently building high-performance applications at **SparkTech Agency**.
 
 With almost 2 years of production experience, I don't just write code—I engineer scalable solutions. My focus is on:
-*   **Performance Optimization:** Reducing TTI and LCP for seamless user experiences.
-*   **Scalable Architecture:** Designing maintainable, modular codebases.
-*   **User-Centric Design:** Bridging the gap between complex logic and intuitive UI.
+
+- **Performance Optimization:** Reducing TTI and LCP for seamless user experiences.
+- **Scalable Architecture:** Designing maintainable, modular codebases.
+- **User-Centric Design:** Bridging the gap between complex logic and intuitive UI.
 
 ## Technology Stack
 
 ### Frontend Architecture
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-329932.svg?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white)
@@ -32,10 +34,12 @@ With almost 2 years of production experience, I don't just write code—I engine
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Mobile Development
+
 ![React Native](https://img.shields.io/badge/React_Native-20232a.svg?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020.svg?style=flat&logo=expo&logoColor=white)
 
 ### Backend & Infrastructure
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
@@ -44,28 +48,32 @@ With almost 2 years of production experience, I don't just write code—I engine
 ## Published Projects, Packages & Extensions
 
 ### Featured Web Projects
-<div>Soon.......</div>
 
-### Featured Web Projects
+- [**Scholarstika**](https://scholarstika-saas-development.vercel.app/) - A SaaS platform for educational institutions to manage their own single or multiple branches, parent, students, teachers, nurses,finance administrator and academic activities.
+- [**hostinflu**](https://hostinflu-web.vercel.app/) - a cutting-edge platform that bridges the gap between property hosts and social media influencers. We facilitate meaningful collaborations where hosts offer money/stay in exchange for authentic social media exposure, creating win-win partnerships that benefit both parties.
+- [**react-tab-refresh**](https://www.npmjs.com/package/react-tab-refresh) - Intelligent state pruning for inactive tabs—solve tab bloat with time-based cleanup
+- [**react-input-buffer**](https://www.npmjs.com/package/react-input-buffer) - High-performance input buffering for gaming peripherals—prevent main thread DDoS
+- [**accessibility-auto-fixer**](https://www.npmjs.com/package/accessibility-auto-fixer) - AST-based accessibility scanner and auto-fixer for React/JSX with smart defaults
+
+### Featured App Projects
+
 <div>Soon.......</div>
 
 ### NPM Packages
 
--  [**react-source-spotlight**](https://www.npmjs.com/package/react-source-spotlight) - One-click source code viewer for React portfolios—hover over any component to see its code
--  [**react-freelance-shield**](https://www.npmjs.com/package/react-freelance-shield) - Secure watermark system for freelance projects with customizable branding
--  [**react-tab-refresh**](https://www.npmjs.com/package/react-tab-refresh) - Intelligent state pruning for inactive tabs—solve tab bloat with time-based cleanup
--  [**react-input-buffer**](https://www.npmjs.com/package/react-input-buffer) - High-performance input buffering for gaming peripherals—prevent main thread DDoS
--  [**accessibility-auto-fixer**](https://www.npmjs.com/package/accessibility-auto-fixer) - AST-based accessibility scanner and auto-fixer for React/JSX with smart defaults
+- [**react-source-spotlight**](https://www.npmjs.com/package/react-source-spotlight) - One-click source code viewer for React portfolios—hover over any component to see its code
+- [**react-freelance-shield**](https://www.npmjs.com/package/react-freelance-shield) - Secure watermark system for freelance projects with customizable branding
+- [**react-tab-refresh**](https://www.npmjs.com/package/react-tab-refresh) - Intelligent state pruning for inactive tabs—solve tab bloat with time-based cleanup
+- [**react-input-buffer**](https://www.npmjs.com/package/react-input-buffer) - High-performance input buffering for gaming peripherals—prevent main thread DDoS
+- [**accessibility-auto-fixer**](https://www.npmjs.com/package/accessibility-auto-fixer) - AST-based accessibility scanner and auto-fixer for React/JSX with smart defaults
 
 ### VS Code Extensions
 
--  [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - A code roaster—get brutally honest feedback about your code quality with humor.
--  [**Focus fog**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.focus-fog) - It automatically detects the active code block you are working on and visually "dims" everything else.
--  [**Ghost Design**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.ghost-design) - Overlay design images directly into your VS Code editor for pixel-perfect implementation.
--  [**Mood Ring**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.mood-ring) - An extension that detects your mood based on typing checks and adjusts the theme.
--  [**Thanos Snap**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-thanos-snap) - Randomly delete 50% of expendable code with a cinematic Thanos snap effect.
-
-
+- [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - A code roaster—get brutally honest feedback about your code quality with humor.
+- [**Focus fog**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.focus-fog) - It automatically detects the active code block you are working on and visually "dims" everything else.
+- [**Ghost Design**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.ghost-design) - Overlay design images directly into your VS Code editor for pixel-perfect implementation.
+- [**Mood Ring**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.mood-ring) - An extension that detects your mood based on typing checks and adjusts the theme.
+- [**Thanos Snap**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-thanos-snap) - Randomly delete 50% of expendable code with a cinematic Thanos snap effect.
 
 ### GitHub Analytics
 
