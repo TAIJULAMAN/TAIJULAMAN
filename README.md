@@ -16,7 +16,7 @@
 **Software Engineer** specializing in **Frontend Architecture** & **Mobile Development**.  
 Currently building high-performance applications at **SparkTech Agency**.
 
-With almost 2 years of production experience, I don't just write code—I engineer scalable solutions. My focus is on:
+With over 2 years of production experience, I don't just write code—I engineer scalable solutions. My focus is on:
 
 - **Performance Optimization:** Reducing TTI and LCP for seamless user experiences.
 - **Scalable Architecture:** Designing maintainable, modular codebases.
