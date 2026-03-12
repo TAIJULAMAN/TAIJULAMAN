@@ -5,7 +5,7 @@
 <br />
 
 <div align="center"> 
-  <a href="https://shah-aman.vercel.app/">Portfolio</a> •
+  <a href="https://mdshahamanpatwary.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/shahamanpatwary">LinkedIn</a> •
   <a href="mailto:mdshahamanpatwary@gmail.com">Email</a> 
 </div>
