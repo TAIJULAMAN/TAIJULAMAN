@@ -51,6 +51,7 @@ With over 2 years of production experience, I don't just write code—I engineer
 
 - [**P B F S**](https://profitablebusinessesforsale.com/) - Connecting buyers and sellers of businesses Globally.Buy or Sell Profitable businesses in UAE with PBFS. Explore verified businesses for sale, connect with trusted brokers, and close deals confidently.
 - [**copyright checker**](https://copyrightchecker.de/en) - A application designed to help users detect copyright music. This platform offers scanning capabilities, detailed results, and subscription plans, fully internationalized for English and German users.
+- [**lunel beauty**](https://lunelwellness.com/) - Discover premium collection of skincare, makeup, and wellness products designed to enhance your natural beauty.
 - [**Scholarstika**](https://scholarstika-saas-development.vercel.app/) - A SaaS platform for educational institutions to manage their own single or multiple branches, parent, students, teachers, nurses,finance administrator and academic activities.
 - [**Hostinflu**](https://hostinflu-web.vercel.app/) - a cutting-edge platform that bridges the gap between property hosts and social media influencers. We facilitate meaningful collaborations where hosts offer money/stay in exchange for authentic social media exposure, creating win-win partnerships that benefit both parties.
 - [**IrelandGo**](https://ireland-go-web.vercel.app/) - A modern, full-featured travel booking platform for Ireland provides separate dashboards for travel agents and users to manage bookings, clients, payments, and more.
