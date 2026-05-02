@@ -60,7 +60,7 @@ With over 2 years of production experience, I don't just write code—I engineer
 
 ### App Projects
 
-- [**Geno-Guevara**](https://github.com/TAIJULAMAN/genoguevara-rn-app) - A premium, high-fidelity React Native application designed to guide users through their recovery journey using the "Big Book Thumper" and "Dr. Bob Mode" spiritual practices. The app provides structured morning, midday, and evening routines, journaling tools, and meditation aids.
+- [**Geno-Guevara**](https://play.google.com/store/apps/details?id=com.stepeleven.eleven) - A premium, high-fidelity React Native application designed to guide users through their recovery journey using the "Big Book Thumper" and "Dr. Bob Mode" spiritual practices. The app provides structured morning, midday, and evening routines, journaling tools, and meditation aids.
 - [**Ideate-Doctor**](https://github.com/TAIJULAMAN/rn-ideate-doctor-consult) - A comprehensive React Native mobile application for doctor consultations, built with Expo and TypeScript. This app provides a complete healthcare platform with appointment booking, instant consultations, messaging and more.
 - [**Travenor**](https://github.com/TAIJULAMAN/rn-travenor-travelling-app) - Travenor allows users to explore destinations, book trips, and manage their travel experiences with an intuitive and visually stunning interface.
 - [**Gogo-User**](https://github.com/TAIJULAMAN/gogo-user-rn-app) -A React Native application for on-demand delivery and logistics. Built with Expo, GOGO offers a seamless user experience for booking, tracking, and managing deliveries with a modern, premium design.
