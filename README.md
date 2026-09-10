@@ -13,14 +13,17 @@
 
 ## Professional Summary
 
-**Software Engineer** specializing in **Frontend Architecture** & **Mobile Development**.  
-Currently building high-performance applications at **SparkTech Agency**.
+**Software Engineer & Architect** specializing in **Frontend Architecture** & **Mobile Development**.  
+Currently driving high-performance engineering initiatives at **SparkTech Agency**.
 
-With over 3 years of production experience, I don't just write code—I engineer scalable solutions. My focus is on:
+With over 3 years of production experience spanning the evolution of the modern web, I don't just write code—I architect resilient, future-proof ecosystems. I specialize in transforming complex business requirements into elegant, scalable technical realities. My core focus includes:
 
-- **Performance Optimization:** Reducing TTI and LCP for seamless user experiences.
-- **Scalable Architecture:** Designing maintainable, modular codebases.
-- **User-Centric Design:** Bridging the gap between complex logic and intuitive UI.
+- **Enterprise-Grade Architecture:** Designing resilient, maintainable, and modular systems capable of scaling to millions of concurrent users.
+- **Relentless Performance Optimization:** Deep-diving into the rendering pipeline to achieve sub-millisecond latency, optimizing TTI and LCP for flawless user experiences.
+- **Technical Leadership & Vision:** Establishing rigorous engineering standards, mentoring teams, and bridging the gap between complex logic and intuitive UI design.
+- **Legacy System Modernization:** Leading seamless, zero-downtime migrations from legacy monoliths to modern, distributed micro-frontend architectures.
+- **Cross-Functional Strategy:** Partnering closely with product and executive stakeholders to align technical architecture with core business objectives.
+- **Security & Compliance:** Championing secure-by-design principles and ensuring robust data integrity across highly regulated enterprise environments.
 
 ## Technology Stack
 
@@ -49,14 +52,19 @@ With over 3 years of production experience, I don't just write code—I engineer
 
 ### Web Projects
 
-- [**P B F S**](https://profitablebusinessesforsale.com/) - Connecting buyers and sellers of businesses Globally.Buy or Sell Profitable businesses in UAE with PBFS. Explore verified businesses for sale, connect with trusted brokers, and close deals confidently.
-- [**copyright checker**](https://copyrightchecker.de/en) - A application designed to help users detect copyright music. This platform offers scanning capabilities, detailed results, and subscription plans, fully internationalized for English and German users.
-- [**lunel beauty**](https://lunelwellness.com/) - Discover premium collection of skincare, makeup, and wellness products designed to enhance your natural beauty.
-- [**Scholarstika**](https://scholarstika-saas-development.vercel.app/) - A SaaS platform for educational institutions to manage their own single or multiple branches, parent, students, teachers, nurses,finance administrator and academic activities.
-- [**Hostinflu**](https://hostinflu-web.vercel.app/) - a cutting-edge platform that bridges the gap between property hosts and social media influencers. We facilitate meaningful collaborations where hosts offer money/stay in exchange for authentic social media exposure, creating win-win partnerships that benefit both parties.
-- [**IrelandGo**](https://ireland-go-web.vercel.app/) - A modern, full-featured travel booking platform for Ireland provides separate dashboards for travel agents and users to manage bookings, clients, payments, and more.
-- [**Craftysoft-Ui**](https://craft-soft-ui.vercel.app/) - An all-in-one frontend development toolkit, purpose-built to help you ship faster, design smarter, and code better.
-- [**Plate-exchang**](https://plate-exchange-website.vercel.app/) -An application for buying and selling UK number plates. This platform connects buyers and sellers in a secure marketplace environment with premium features and user dashboard functionality.
+- [**Scholarstika**](https://scholarstika.org) - A comprehensive multi-tenant SaaS platform empowering educational institutions to seamlessly manage academic operations and multi-branch logistics, featuring dedicated portals tailored for students, parents, teachers, nurses, and finance administrators.
+
+- [**IrelandGo**](https://tourenzo.com) - A full-featured travel booking platform tailored for the Irish market. Features a robust dual-dashboard architecture for end-users and travel agents to orchestrate bookings, clients, and secure payments.
+
+- [**PBFS**](https://profitablebusinessesforsale.com) - A global B2B marketplace facilitating the acquisition and sale of profitable enterprises. Provides a secure ecosystem for verified business listings, broker networking, and confidential deal closures.
+
+- [**Copyright Checker**](https://copyrightchecker.de/en) - An internationalized web application engineered for copyright music detection. Integrates advanced scanning algorithms, comprehensive reporting, and tiered subscription models.
+
+- [**Lunel Beauty**](https://lunelwellness.com) - An elegant e-commerce platform offering a curated selection of premium skincare and wellness products, built with a focus on high-conversion UI and seamless user experience.
+
+- [**Hostinflu**](https://hostinflu.com) - An innovative two-sided marketplace connecting property hosts with social media influencers. Facilitates value-driven collaborations and authentic promotional campaigns through a streamlined booking interface.
+
+- [**Craftysoft-UI**](https://craft-soft-ui.vercel.app) - A robust frontend development toolkit and component library designed to accelerate engineering velocity, enforce design system consistency, and elevate code quality.
 
 ### App Projects
 
