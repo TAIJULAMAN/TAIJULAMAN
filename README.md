@@ -68,27 +68,37 @@ With over 3 years of production experience spanning the evolution of the modern 
 
 ### App Projects
 
-- [**Geno-Guevara**](https://play.google.com/store/apps/details?id=com.stepeleven.eleven) - A premium, high-fidelity React Native application designed to guide users through their recovery journey using the "Big Book Thumper" and "Dr. Bob Mode" spiritual practices. The app provides structured morning, midday, and evening routines, journaling tools, and meditation aids.
+Coming Soon...
+
+<!-- - [**Geno-Guevara**](https://play.google.com/store/apps/details?id=com.stepeleven.eleven) - A premium, high-fidelity React Native application designed to guide users through their recovery journey using the "Big Book Thumper" and "Dr. Bob Mode" spiritual practices. The app provides structured morning, midday, and evening routines, journaling tools, and meditation aids.
 - [**Ideate-Doctor**](https://github.com/TAIJULAMAN/rn-ideate-doctor-consult) - A comprehensive React Native mobile application for doctor consultations, built with Expo and TypeScript. This app provides a complete healthcare platform with appointment booking, instant consultations, messaging and more.
 - [**Travenor**](https://github.com/TAIJULAMAN/rn-travenor-travelling-app) - Travenor allows users to explore destinations, book trips, and manage their travel experiences with an intuitive and visually stunning interface.
 - [**Gogo-User**](https://github.com/TAIJULAMAN/gogo-user-rn-app) -A React Native application for on-demand delivery and logistics. Built with Expo, GOGO offers a seamless user experience for booking, tracking, and managing deliveries with a modern, premium design.
-- [**Gogo-Driver**](https://github.com/TAIJULAMAN/gogo-driver-rn-app) -A React Native application for on-demand delivery and logistics. Built with Expo, GOGO offers a seamless user experience for booking, tracking, and managing deliveries with a modern, premium design.
+- [**Gogo-Driver**](https://github.com/TAIJULAMAN/gogo-driver-rn-app) -A React Native application for on-demand delivery and logistics. Built with Expo, GOGO offers a seamless user experience for booking, tracking, and managing deliveries with a modern, premium design. -->
 
 ### NPM Packages
 
-- [**react-source-spotlight**](https://www.npmjs.com/package/react-source-spotlight) - One-click source code viewer for React portfolios—hover over any component to see its code
-- [**react-freelance-shield**](https://www.npmjs.com/package/react-freelance-shield) - Secure watermark system for freelance projects with customizable branding
-- [**react-tab-refresh**](https://www.npmjs.com/package/react-tab-refresh) - Intelligent state pruning for inactive tabs—solve tab bloat with time-based cleanup
-- [**react-input-buffer**](https://www.npmjs.com/package/react-input-buffer) - High-performance input buffering for gaming peripherals—prevent main thread DDoS
-- [**accessibility-auto-fixer**](https://www.npmjs.com/package/accessibility-auto-fixer) - AST-based accessibility scanner and auto-fixer for React/JSX with smart defaults
+- **react-source-spotlight** [🔗 NPM](https://www.npmjs.com/package/react-source-spotlight) - A development tool for React portfolios providing one-click, in-browser source code inspection via component hover states.
+
+- **react-freelance-shield** [🔗 NPM](https://www.npmjs.com/package/react-freelance-shield) - A security-focused React component designed for freelance deliverables, featuring robust, customizable watermarking to protect intellectual property.
+
+- **react-tab-refresh** [🔗 NPM](https://www.npmjs.com/package/react-tab-refresh) - A performance-optimization library that intelligently prunes state and unmounts inactive tabs based on configurable time heuristics.
+
+- **react-input-buffer** [🔗 NPM](https://www.npmjs.com/package/react-input-buffer) - A high-performance input buffering system engineered to mitigate main-thread blocking and ensure fluid execution for high-frequency data streams.
+
+- **accessibility-auto-fixer** [🔗 NPM](https://www.npmjs.com/package/accessibility-auto-fixer) - An AST-driven accessibility scanner and automated remediation tool for React/JSX codebases, enforcing WCAG compliance with intelligent defaults.
 
 ### VS Code Extensions
 
-- [**VS Roast**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - A code roaster—get brutally honest feedback about your code quality with humor.
-- [**Focus fog**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.focus-fog) - It automatically detects the active code block you are working on and visually "dims" everything else.
-- [**Ghost Design**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.ghost-design) - Overlay design images directly into your VS Code editor for pixel-perfect implementation.
-- [**Mood Ring**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.mood-ring) - An extension that detects your mood based on typing checks and adjusts the theme.
-- [**Thanos Snap**](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-thanos-snap) - Randomly delete 50% of expendable code with a cinematic Thanos snap effect.
+- **VS Roast** [🔗 VS Code](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-roast) - A linting companion that provides humorous, brutally honest feedback on code quality and anti-patterns directly within the editor.
+
+- **Focus Fog** [🔗 VS Code](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.focus-fog) - A productivity-enhancing extension that dynamically isolates active code blocks by dimming the surrounding context, reducing cognitive load during deep work.
+
+- **Ghost Design** [🔗 VS Code](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.ghost-design) - A UI/UX utility that overlays design mockups directly into the editor viewport, facilitating pixel-perfect implementation of frontend components.
+
+- **Mood Ring** [🔗 VS Code](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.mood-ring) - An innovative developer experience (DX) tool that analyzes typing cadence and patterns to infer user mood, dynamically adjusting the IDE theme to match.
+
+- **Thanos Snap** [🔗 VS Code](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.vs-thanos-snap) - A gamified codebase cleanup tool that randomly targets and eliminates 50% of expendable files and boilerplate with a cinematic visual effect.
 
 ### GitHub Analytics
 
