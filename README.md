@@ -52,19 +52,19 @@ With over 3 years of production experience spanning the evolution of the modern 
 
 ### Web Projects
 
-- [**Scholarstika**](https://scholarstika.org) - A comprehensive multi-tenant SaaS platform empowering educational institutions to seamlessly manage academic operations and multi-branch logistics, featuring dedicated portals tailored for students, parents, teachers, nurses, and finance administrators.
+- **Scholarstika** [🔗 Live](https://scholarstika.org) - A comprehensive multi-tenant SaaS platform empowering educational institutions to seamlessly manage academic operations and multi-branch logistics, featuring dedicated portals tailored for students, parents, teachers, nurses, and finance administrators.
 
-- [**IrelandGo**](https://tourenzo.com) - A full-featured travel booking platform tailored for the Irish market. Features a robust dual-dashboard architecture for end-users and travel agents to orchestrate bookings, clients, and secure payments.
+- **IrelandGo** [🔗 Live](https://tourenzo.com) - A full-featured travel booking platform tailored for the Irish market. Features a robust dual-dashboard architecture for end-users and travel agents to orchestrate bookings, clients, and secure payments.
 
-- [**PBFS**](https://profitablebusinessesforsale.com) - A global B2B marketplace facilitating the acquisition and sale of profitable enterprises. Provides a secure ecosystem for verified business listings, broker networking, and confidential deal closures.
+- **PBFS** [🔗 Live](https://profitablebusinessesforsale.com) - A global B2B marketplace facilitating the acquisition and sale of profitable enterprises. Provides a secure ecosystem for verified business listings, broker networking, and confidential deal closures.
 
-- [**Copyright Checker**](https://copyrightchecker.de/en) - An internationalized web application engineered for copyright music detection. Integrates advanced scanning algorithms, comprehensive reporting, and tiered subscription models.
+- **Copyright Checker** [🔗 Live](https://copyrightchecker.de/en) - An internationalized web application engineered for copyright music detection. Integrates advanced scanning algorithms, comprehensive reporting, and tiered subscription models.
 
-- [**Lunel Beauty**](https://lunelwellness.com) - An elegant e-commerce platform offering a curated selection of premium skincare and wellness products, built with a focus on high-conversion UI and seamless user experience.
+- **Lunel Beauty** [🔗 Live](https://lunelwellness.com) - An elegant e-commerce platform offering a curated selection of premium skincare and wellness products, built with a focus on high-conversion UI and seamless user experience.
 
-- [**Hostinflu**](https://hostinflu.com) - An innovative two-sided marketplace connecting property hosts with social media influencers. Facilitates value-driven collaborations and authentic promotional campaigns through a streamlined booking interface.
+- **Hostinflu** [🔗 Live](https://hostinflu.com) - An innovative two-sided marketplace connecting property hosts with social media influencers. Facilitates value-driven collaborations and authentic promotional campaigns through a streamlined booking interface.
 
-- [**Craftysoft-UI**](https://craft-soft-ui.vercel.app) - A robust frontend development toolkit and component library designed to accelerate engineering velocity, enforce design system consistency, and elevate code quality.
+- **Craftysoft-UI** [🔗 Live](https://craft-soft-ui.vercel.app) - A robust frontend development toolkit and component library designed to accelerate engineering velocity, enforce design system consistency, and elevate code quality.
 
 ### App Projects
 
