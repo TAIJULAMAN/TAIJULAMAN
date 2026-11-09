@@ -8,8 +8,7 @@
   <a href="https://mdshahamanpatwary.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/shahamanpatwary">LinkedIn</a> •
   <a href="https://www.npmjs.com/~taijul-aman">NPM</a> •
-  <a href="https://marketplace.visualstudio.com/publishers/MdShahAmanPatwary">VS Code</a> •
-  <a href="mailto:mdshahamanpatwary@gmail.com">Email</a> 
+  <a href="https://marketplace.visualstudio.com/publishers/mdshahamanpatwary">VS Code</a> 
 </div>
 <br />
 
@@ -65,8 +64,6 @@ With over 3 years of production experience spanning the evolution of the modern 
 - **Lunel Beauty** [🔗 Live](https://lunelwellness.com) - An elegant e-commerce platform offering a curated selection of premium skincare and wellness products, built with a focus on high-conversion UI and seamless user experience.
 
 - **Hostinflu** [🔗 Live](https://hostinflu.com) - An innovative two-sided marketplace connecting property hosts with social media influencers. Facilitates value-driven collaborations and authentic promotional campaigns through a streamlined booking interface.
-
-- **Craftysoft-UI** [🔗 Live](https://craft-soft-ui.vercel.app) - A robust frontend development toolkit and component library designed to accelerate engineering velocity, enforce design system consistency, and elevate code quality.
 
 ### App Projects
 
