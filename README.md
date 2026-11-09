@@ -7,6 +7,8 @@
 <div align="center"> 
   <a href="https://mdshahamanpatwary.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/shahamanpatwary">LinkedIn</a> •
+  <a href="https://www.npmjs.com/~taijul-aman">NPM</a> •
+  <a href="https://marketplace.visualstudio.com/publishers/MdShahAmanPatwary">VS Code</a> •
   <a href="mailto:mdshahamanpatwary@gmail.com">Email</a> 
 </div>
 <br />
