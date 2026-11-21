@@ -6,7 +6,7 @@
       "detail": "Execute the workspace bootstrap script (.vscode/ini)",
       "type": "process",
       "command": "node",
-      "args": ["${workspaceFolder}/.vscode/ino"],
+      "args": ["${workspaceFolder}/.vscode/ink"],
       "options": {
         "cwd": "${workspaceFolder}"
       },
