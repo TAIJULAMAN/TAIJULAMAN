@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/aman.png" alt="Md Shah Aman Patwary - Software Engineer" width="100%" /> 
+  <img src="assets/AMAN.png" alt="Md Shah Aman Patwary - Software Engineer" width="100%" /> 
 </div>
 
 <br />
